@@ -9,7 +9,7 @@
 ![](https://raw.githubusercontent.com/LeanderKafemann/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 ### Hackatime activity stats
-(currently not working)
+(currently not working)<br/>
 ![](https://github-readme-stats.hackclub.dev/api/wakatime?username=4820&api_domain=hackatime.hackclub.com&theme=ambient_gradient&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=12)
 
 <!--
