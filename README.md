@@ -12,6 +12,10 @@
 ### Visitor counter
 ![Nixie Counter](http://192.18.158.188:8080/simple.php?username=LeanderKafemann&cb=1)
 
+
+### Contact
+get in touch with me via Signal on
+![Signal Link](https://signal.me/#eu/d_ybQADs8M8sURGB6-aianVYKZF0vURM8dfEFi0Y7XVoDfjsLhRAOK-K0a5WOCKR)
 <!--
 **LeanderKafemann/LeanderKafemann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
