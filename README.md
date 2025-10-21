@@ -8,9 +8,9 @@
 ![](https://raw.githubusercontent.com/LeanderKafemann/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/LeanderKafemann/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
-### Hackatime activity stats
-(currently not working)<br/>
-![](https://github-readme-stats.hackclub.dev/api/wakatime?username=4820&api_domain=hackatime.hackclub.com&theme=ambient_gradient&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=12)
+
+### Visitor counter
+![Nixie Counter](http://192.18.158.188:8080/simple.php?username=brucelsprouts&cb=1)
 
 <!--
 **LeanderKafemann/LeanderKafemann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
