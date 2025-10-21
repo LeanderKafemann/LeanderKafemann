@@ -10,7 +10,7 @@
 
 
 ### Visitor counter
-![Nixie Counter](http://192.18.158.188:8080/simple.php?username=brucelsprouts&cb=1)
+![Nixie Counter](http://192.18.158.188:8080/simple.php?username=LeanderKafemann&cb=1)
 
 <!--
 **LeanderKafemann/LeanderKafemann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
