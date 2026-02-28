@@ -11,6 +11,12 @@
 ![](https://raw.githubusercontent.com/LeanderKafemann/github-stats/master/generated/history.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/LeanderKafemann/github-stats/master/generated/history.svg#gh-light-mode-only)
 
+![](https://raw.githubusercontent.com/LeanderKafemann/github-stats/master/generated/milestones.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/LeanderKafemann/github-stats/master/generated/milestones.svg#gh-light-mode-only)
+
+![](https://raw.githubusercontent.com/LeanderKafemann/github-stats/master/generated/achievements.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/LeanderKafemann/github-stats/master/generated/achievements.svg#gh-light-mode-only)
+
 
 ### Visitor counter
 ![Nixie Counter](http://192.18.158.188:8080/simple.php?username=LeanderKafemann&cb=1)
